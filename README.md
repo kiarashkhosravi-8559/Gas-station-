@@ -188,3 +188,4 @@ st.markdown(report_text)
 if st.button("📥 تولید فایل گزارش PDF (در حال توسعه)"):
     st.info("این قابلیت در نسخه Pro فعال است.")
 
+
